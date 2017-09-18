@@ -1,0 +1,16 @@
+package enums;
+
+public enum ReturnCode {
+	ACCESS_HELD,
+	BUSY,
+	DISABLED,
+	FORWARDED,
+	IGNORED,
+	INVALID,
+	NAME_CLASH,
+	NOT_DISABLED,
+	NOT_FOUND,
+	NOT_LOCAL,
+	PENDING,
+	SUCCESS
+}
